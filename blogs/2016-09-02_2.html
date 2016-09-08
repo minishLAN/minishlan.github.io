@@ -6,15 +6,17 @@
     <link rel="shortcut icon" href="/minicon3.ico">
     <link href="/style.css" rel="stylesheet" type="text/css" media="all">
     <style>
-			body {
-				background: url("http://i.imgur.com/zKv6HHA.jpg");
-				color: #fff;
-				font-family: verdana;
-				background-attachment: fixed;
-				
-				margin: 1em 2em 0 2em;	
-			}
-		</style>
+	  body {
+		background: url("/Images/vapemountain.png");
+		color: #fff;
+		font-family: verdana;
+		background-attachment: fixed;
+		background-repeat: no-repeat;
+        background-size: cover;
+			
+		margin: 1em 2em 0 2em;	
+	  }
+	</style>
   </head>
   <body>
     <div class="section header">
@@ -32,10 +34,11 @@
 				<p><a href="https://redd.it/50hyzs">WATCH THE LIVESTREAM</a></p>
 				<p>DOWNLOAD NOW!!! <font size="1">(psa you cant download until 2016-09-03 sorry)</font></p>
 			</font>
-			<audio id="audiotag" loop autoplay controls src="https://cdn.discordapp.com/attachments/218627740629336064/221044579606986752/1-24_Flare_Cascade_Cut.mp3">
+			<audio id="audiotag" loop autoplay controls src="/Audio/flare.mp3">
       </audio>
       <script>
-        var audioTag = document.getElementById("audioTag");        audioTag.volume = 1.0;
+        var audioTag = document.getElementById("audioTag");
+		audioTag.volume = 1.0;
       </script>
       <font size="1">
         <p>Song: "Flare (Cascade Cut)" - Homestuck</p>
