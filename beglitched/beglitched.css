@@ -1,3 +1,20 @@
+.descriptioncontainer {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  width: 90%;
+  max-width: 1280px;
+}
+
+.description {
+  text-align: left;
+  color: #fde7c3;
+  font-family: 'Arvo';
+  font-size: 25px;
+}
+
 .logo {
   display: block;
   margin-left: auto;
