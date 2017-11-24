@@ -6,7 +6,7 @@ body {
 	font-family: [font];
 	background-attachment: fixed;
 
-  margin: 1em 2em 0 2em;	
+  margin: 1em 2em 0 2em;
 }
 
 by yourself, as different backgrounds are very frequent
@@ -24,11 +24,11 @@ may put link colours in this category if i change it too much*/
 }
 
 a {
-     color: #06f;
+  color: #0f0;
 }
-		  
+
 a:visited {
-    color: #0f0;
+  color: #ff99f0;
 }
 
 .section audio {
