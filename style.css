@@ -20,7 +20,7 @@ may put link colours in this category if i change it too much*/
 }
 
 .section p:first-child {
-    margin-top: 0px;
+  margin-top: 0px;
 }
 
 a {
@@ -28,7 +28,7 @@ a {
 }
 
 a:visited {
-  color: #ff99f0;
+  color: #0f0;
 }
 
 .section audio {
