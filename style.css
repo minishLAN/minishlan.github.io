@@ -19,6 +19,18 @@ may put link colours in this category if i change it too much*/
 	padding-bottom: 12px;
 }
 
+.h3-bullets {
+  text-align: center;
+}
+
+.section-bullets {
+  margin:0 auto;
+}
+
+.margin {
+	border-bottom: 1px solid #fff;
+}
+
 .section p:first-child {
   margin-top: 0px;
 }
@@ -35,9 +47,12 @@ a:visited {
   margin-top: 18px;
 }
 
-
-
 .header {
   padding-top: 0px;
 	text-align: center;
+}
+
+li {
+  line-height: 20px;
+  font-family: 'Cairo';
 }
