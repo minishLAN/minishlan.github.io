@@ -52,6 +52,10 @@ a:visited {
 	text-align: center;
 }
 
+p {
+  line-height: 20px;
+}
+
 li {
   line-height: 20px;
   font-family: 'Cairo';
