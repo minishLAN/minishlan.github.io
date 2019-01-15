@@ -1,0 +1,51 @@
+Kingdom Hearts 2 has an incredible combat system, one of the greatest in any game I've ever played.
+The amount of thought that was put into the abilities, magic, limits, summons, drive forms, and more are extremely impressive, offering a level of freedom and ability to go by your own playstyles, and rewards the player by being able to churn through their foes by effective use of the things at their disposal.
+However, there is a playstyle that the developers forgot to account for: mashing the X button.
+As good as Kingdom Hearts 2 is, it is terrible at teaching you it's mechanics. A single pop-up, and unless you go out of your way, that's basically it.
+Mashing the X button to get through enemies, with the occasional required reaction command, is boring. It's dull, and slow. By using the mechanics, fights are much more fun, and far shorter.
+However, the difficulty modes and fights mean that, besides the occasional Cure, any player would just mash the X button to slowly get through fights, because the game doesn't explain the alternative well.
+
+This all changed in Kingdom Hearts 2 Final Mix's Critical Mode.
+The differences in Critical Mode are:
+	1) Maximum health is 0.5x. (60HP)
+	2) The player takes 2x damage, in comparison to Standard Mode.
+These are both standard, of course. To be expected, really. But...
+	3) The player deals 1.25x damage, in comparison to Critical Mode.
+	4) Several abilities are granted on the third day (Reaction Boost, Finishing Plus, Draw, 2x Lucky Lucky, MP Hastera and EXP Zero).
+	5) Roxas' initial AP is 50.
+	6) AP increases from Level Ups in increments of 3, instead of 2.
+And this is why Critical Mode is fantastic.
+Instead of just decreasing your stats, and increasing enemies' stats, the development team took a unique approach: they turned the player into a glass cannon.
+You are stronger than normal, but you take hits far harder than normal.
+This forces you to avoid, guard, or reflect enemies' attacks, since, at the start of the game, you will die in three or four hits. You have to strategise, use your skills to take down your enemy quickly and safely, before you slip up, and the enemy kills you.
+
+Reflect is the most powerful magic spell in Kingdom Hearts 2. It deflects an enemy's attacks in a large radius, and reflects the damage you would have normally recieved back at them.
+I have never seen anyone on lower difficulties use this spell. Truthfully, I didn't even know what it was until pretty late on in the game.
+If I had known what it was, if I had known how many scrapes it would have saved me, I would've used it for sure! But I didn't.
+Part of this is my fault, of course, but it's also certainly the fault of the game's teaching.
+The only explanation you get of Reflect is by going out of your way to find it yourself - and players don't have an incentive for this, when everything's going great for them.
+Critical Mode gives you this incentive. Critical Mode makes you want to deflect these hits, to take down your enemies.
+
+There's one more thing Final Mix does. It fixes the abusability of Cure, Cura, and Curaga.
+In Kingdom Hearts 2, the game makes a big change from the first installment. Instead of Cure costing 1 MP, Cure now costs the entire MP gauge.
+This requires an explanation of the differences between MP in KH1 and KH2, and the addition of MP Charge.
+In Kingdom Hearts 1, MP was abusable, and you could cast dozens and dozens of spells if you grind up your MP gauge. However, the counter against this was that MP could only be restored by save points and items, both hard to come by and items being expensive.
+However, if you manage your magic right (which is fairly easy to do) this stops being an issue, especially at higher MP levels. This makes it so running out of health is never really a problem, since you can use your Cures.
+Kingdom Hearts 2 had to change the system, and it did: the MP bar you see in newer Kingdom Hearts games was introduced.
+MP upgrades could no longer be grinded, with extensions to the bar being far and few between from beating specific bosses.
+However, this came with a caveat: MP Charge. Once you run out of MP, you can wait until your MP restores, with MP-restoration items speeding up the process if you want to use magic attacks again with no delay.
+
+The problem with Cure is that, unlike items, you don't have limited occasions to use it before you need to refill your stock. And also, an ability called Leaf Shield means that you get invincibility frames while casting Cure, useful in situations beyond just restoring health.
+Kingdom Hearts 1's counter against this failed, so the developers decided to make it so Cure wouldn't be abused over items in Kingdom Hearts 2.
+And so, Cure drops the MP bar to a full 0. No more magic attacks can be used, and no more limits can be used, until the bar refills over time, right? So you can't spam Cure.
+In theory, this is an incredible system, making it so items are better, even though Leaf Shield doesn't apply to items. But here's the problem:
+Kingdom Hearts 2, before the Final Mix, never had situations where not being able to use magic for a while was a detriment. There was never an enemy powerful enough, a boss relentless enough, that you desperately needed a heal while waiting for your MP bar to restore.
+The closest the game got to this was the Organisation XIII bosses, and even then, they weren't significant roadblocks.
+So, Final Mix decided to add some superbosses. Specifically, 15 of them.
+Even if you aren't playing on Critical Mode, these bosses are incredibly hard, and most players give up when they get to them.
+They're actually hypothetically harder on easier difficulties, as players on Critical Mode should be familiar with the game's combat system by the time they reach them, only being available either after you beat the game or after you get all your special abilites to their maximum levels.
+These bosses are the first time you have to Reflect, Guard, learn the patterns of each boss, where button-mashing won't work, where you won't get to just run away until your MP bar refills after casting Cure.
+
+All these bosses are just extra content, but they are incredibly crafted bosses, of which there isn't really a match in the base game of Kingdom Hearts 2.
+And that's why I ask you to play Kingdom Hearts 2 Final Mix, on Critical Mode.
+It's fun and rewarding, and taught me valuable lessons about game design. It's good enough for me to write this thing, at least.
