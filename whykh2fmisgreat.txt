@@ -10,7 +10,7 @@ The differences in Critical Mode are:
 	1) Maximum health is 0.5x. (60HP)
 	2) The player takes 2x damage, in comparison to Standard Mode.
 These are both standard, of course. To be expected, really. But...
-	3) The player deals 1.25x damage, in comparison to Critical Mode.
+	3) The player deals 1.25x damage, in comparison to Standard Mode.
 	4) Several abilities are granted on the third day (Reaction Boost, Finishing Plus, Draw, 2x Lucky Lucky, MP Hastera and EXP Zero).
 	5) Roxas' initial AP is 50.
 	6) AP increases from Level Ups in increments of 3, instead of 2.
